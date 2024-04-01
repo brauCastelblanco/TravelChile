@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">30daysInChile</string>
+    <string name="place_name_1">San Cristobal</string>
+    <string name="place_name_2">Torres del Paine</string>
+    <string name="place_name_3">Santiago</string>
+    <string name="place_name_4">El sur</string>
+    <string name="place_name_5">Rapa Nui</string>
+    <string name="place_name_6">Valdivia</string>
+    <string name="place_name_7">Antofagasta</string>
+    <string name="place_name_8">Atacama</string>
+    <string name="place_name_9">Valparaiso</string>
+    <string name="place_name_10">Magallanes</string>
+
+    <string name="place_description_1">San Cristobal Hill in Santiago stands as a majestic urban oasis,offering panoramic views of the city and the Andes.</string>
+    <string name="place_description_2">Torres del Paine, a jewel of Patagonia, captivates with its soaring granite towers, emerald lakes, and vast wilderness.</string>
+    <string name="place_description_3">Santiago de Chile is an amazing city to explore, one of the best cities in Latin America</string>
+    <string name="place_description_4">Patagonia mesmerizes with its iconic peaks, vibrant blue glaciers, and diverse wildlife</string>
+    <string name="place_description_5">Rapa Nui, also known as Easter Island, intrigues with its mysterious moai statues, rich Polynesian culture, and remote beauty.</string>
+    <string name="place_description_6">Enchants with its serene lakeside setting, German-inspired architecture, and picturesque mountain backdrop.</string>
+    <string name="place_description_7">Antofagasta, a dynamic port city, thrives against a backdrop of the Pacific Ocean and the stark beauty of the Atacama Desert.</string>
+    <string name="place_description_8">The Atacama Desert, Earths driest desert, offers a stark landscape of salt flats, sand dunes, and starry skies.</string>
+    <string name="place_description_9">Valparaíso, a vibrant port city, charms with its colorful hillside homes, historic funiculars, and bustling seaside culture.</string>
+    <string name="place_description_10">Magallanes, the gateway to Antarctica, is a rugged, wind-swept region known for its breathtaking landscapes and maritime history.</string>
+</resources>
